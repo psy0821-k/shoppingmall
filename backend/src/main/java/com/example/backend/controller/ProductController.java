@@ -1,4 +1,4 @@
-package com.paperly.backend.controller;
+package com.example.backend.controller;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
